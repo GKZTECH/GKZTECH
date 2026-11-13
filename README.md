@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there 👋 I'm [Your Name]
 
-<!--
-**GKZTECH/GKZTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer and designer focused on building clean, efficient, and user-centric web applications. Currently studying software engineering principles and modern full-stack development, I love combining robust backend logic with polished frontend user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Technologies
+* **Languages:** JavaScript, HTML5, CSS3, Python
+* **Frameworks & Libraries:** Node.js, Express, EJS, React
+* **Databases & Tools:** MongoDB, Git, GitHub, VS Code, Windows PowerShell
+* **Design & Creative:** Adobe Illustrator, Photoshop, InDesign, Figma
+
+---
+
+### 🚀 Projects and Work
+
+* **[Fort Knox Vault](https://byui-cse.github.io/cse300-ww-course/week03/index.html)**
+  * *Description:* A full-stack web application featuring user registration, authentication, and a dynamic item dashboard.
+  * *Tech Stack:* Node.js, Express, JavaScript, CSS Grid
+
+* **[CSE Motors Dealership App](https://byui-cse.github.io/cse300-ww-course/week03/index.html)**
+  * *Description:* A responsive home view interface and car dealership platform utilizing server-side routing and localized styling.
+  * *Tech Stack:* Express, Node.js, Modern CSS
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
