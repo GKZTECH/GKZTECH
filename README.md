@@ -28,9 +28,15 @@ I am a passionate software developer and designer focused on building clean, eff
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GKZTECH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKZTECH&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+## 📊 GitHub Statistics
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GKZTECH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GKZTECH&layout=compact&theme=tokyonight&hide_border=true)
+
+### GitHub Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=GKZTECH&theme=tokyonight&hide_border=true)
+
