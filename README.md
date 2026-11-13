@@ -22,7 +22,7 @@ I am a passionate software developer and designer focused on building clean, eff
   * *Tech Stack:* Express, Node.js, Modern CSS
 
  * **[Music App]
- * *Description:* A fully working music application that can stream music and Podcast.
+ * *Description:* A fully working music application that can stream music, videos and Podcast.
   * *Tech Stack:* Rust Progrmming Languge
 ---
 
