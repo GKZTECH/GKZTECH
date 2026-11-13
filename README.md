@@ -1,5 +1,4 @@
-### Hi there 👋 I'm [Your Name]
-
+### Hi there 👋 I'm Godfred Zonyrah
 I am a passionate software developer and designer focused on building clean, efficient, and user-centric web applications. Currently studying software engineering principles and modern full-stack development, I love combining robust backend logic with polished frontend user interfaces.
 
 ---
@@ -27,8 +26,8 @@ I am a passionate software developer and designer focused on building clean, eff
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GKZTECH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKZTECH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
