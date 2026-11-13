@@ -22,15 +22,15 @@ I am a passionate software developer and designer focused on building clean, eff
   * *Tech Stack:* Express, Node.js, Modern CSS
 
  * **[Music App]
- * *Description:* A fully working music application that can stream music and podcast.
+ * *Description:* A fully working music application that can stream music and Podcast.
   * *Tech Stack:* Rust Progrmming Languge
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GKZTECH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKZTECH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
